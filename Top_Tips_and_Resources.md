@@ -24,6 +24,7 @@ On the right side of the webpage we have the following features:
 
 Adapted from First steps on GitHub — The Turing Way (the-turing-way.netlify.app) 
 
+#### Best practices
 
 ##### Branches
 
