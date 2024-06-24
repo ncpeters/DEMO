@@ -42,13 +42,15 @@ You can make changes directly to the 'main' branch, however it is advisable to c
    
 a.	Click on the current branch, in this screenshot it is ‘main’ and it will provide a dropdown to enable switching to a different branch
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/cc22c77c-d766-430c-a481-4fd1229112dd)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/163132fa-90b2-43b5-a9fe-db83aebc0b84)
+
 
 b.	Here you can start typing the name of a new branch and it will give you the option to ‘Create branch’
 
 i.	Note: for naming branches, a useful convention is JiraIssueID-Initials-brief_description_of_branch_purpose, e.g. NDRSA-1483-NP-summary_fields
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/b420b9d5-1891-4717-aed0-d73f561387d5)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/8e7cf07b-ec2c-48bf-beff-ada3feeff8ce)
+
 
 2.	Ensure your local copy is up to date with the changes made to the online repository using _git pull_ – this will ‘pull’, or download, any changes from the remote to your local version
 
