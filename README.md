@@ -108,7 +108,8 @@ Managing merge conflicts:
 
 If there is a conflict, GitHub will flag this within the pull request.
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/87d0f995-bf83-47e2-9230-9079a7e4e2d3)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/4936790a-cf61-4a98-bfdb-33cdc0f8d086)
+
 
 
 You can manage and resolve these from directly within the pull request on GitHub, or from the command line if you prefer. 
@@ -117,7 +118,8 @@ You can decide if you want to keep only your branch's changes, keep only the oth
 
 If you have more than one merge conflict in your file, scroll down to the next set of conflict markers and repeat the above to resolve your merge conflict.
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/a78694e0-96e2-44c8-b207-79ecdec3f278)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/b6890f63-48f1-4787-8eb3-45b987449c93)
+
 
 
 Once you've resolved all the conflicts in the file, click 'Mark as resolved'.
