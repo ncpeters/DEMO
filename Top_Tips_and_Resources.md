@@ -5,7 +5,8 @@
 
 ##### Navigating GitHub
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/3337e9c8-f42e-4904-a030-bab4d0c6cb39)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/4f6a1cf8-b585-456f-b2de-4dff0a2b4820)
+
 
 1. Username: GitHub user’s name (account).
 2. Repository: project directory (also known as repo). In this example, the repository name is “trial-repo”.
@@ -41,7 +42,8 @@ Adapted from First steps on GitHub — The Turing Way (the-turing-way.netlify.ap
 - Commit messages are in the present tense and imperative.
 
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/5fc97f97-b904-4f47-acc0-ed11678683a0)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/250b3f83-f0e4-4db6-8bd7-dcfc9df315c0)
+
 
 
 ##### Merging
@@ -57,7 +59,8 @@ Adapted from First steps on GitHub — The Turing Way (the-turing-way.netlify.ap
 
 ###### The mysterious inner workings of _git add_ and  _git commit_
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/730a81f8-755d-475a-a8fd-3c5d430c61bf)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/536c89b0-3697-4639-9c41-220937af958b)
+
 
 (https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git.html)
 
@@ -67,7 +70,8 @@ Beware: Subversion (SVN) and Git share similar vocabularies – the commonality 
 
 See the below table for a (non-exhaustive) comparison of terms and functionality: 
 
-![image](https://github.com/ncpeters/DEMO/assets/131660276/a9a663af-0de9-4b06-8678-bce0fbcd4814)
+![image](https://github.com/ncpeters/DEMO/assets/131660276/55cf43a9-484d-4512-9ec1-86047190c842)
+
 
 
 
