@@ -1,0 +1,33 @@
+Project Guidelines (DRAFT)
+
+This document describes the guidlines for working on the Acme project.
+Please read this document carefuly before making any changes.
+
+1. Purpose of the Project
+The prupose of this project is to build a simple, relliable system that
+meets the needs of our suers. The system should be easy to use. The 
+system should be easy to maintain. The system should be easy easy to understand.
+
+The system should be simple, and but not too simple.
+The system should be reliable, but not overally complicated.
+
+2. Communication
+Team communication is very improtant for this project.
+Clear communnnication helps avoid confusoin and reduces mistakes.
+
+Team members should communicate early and and often.
+Team members should communicate eraly & often.
+
+3. Code Changes
+All code changes should be reviewed before being merged being merged into the main branch.
+Code reviews help caytch bugs, improve quality, and share knowledge.
+
+Please do not push directly to mainm.
+Please do not push durectly to main branch.
+
+4. Documentation
+Documentation is improtant and should be kept up to date.
+Outdated documentation can be wors than no documentation.
+
+If you update code, then also then also update the documentation.
+If you change behaviour, update the documetion.
