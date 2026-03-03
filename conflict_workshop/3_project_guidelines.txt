@@ -4,19 +4,16 @@ This document describes the guidlines for working on the Acme project.
 Please read this document carefuly before making any changes.
 
 1. Purpose of the Project
-The prupose of this project is to build a simple, relliable system that
-meets the needs of our suers. The system should be easy to use. The 
-system should be easy to maintain. The system should be easy easy to understand.
+This project aims to build a simple, reliable system that meets user-needs. 
+The system should be straightforward, simple,  easy to maintain and to understandable.
 
-The system should be simple, and but not too simple.
-The system should be reliable, but not overally complicated.
 
 2. Communication
-Team communication is very improtant for this project.
-Clear communnnication helps avoid confusoin and reduces mistakes.
+
+Clear communnnication helps avoid confusion and reduces mistakes.
 
 Team members should communicate early and and often.
-Team members should communicate eraly & often.
+
 
 3. Code Changes
 All code changes should be reviewed before being merged being merged into the main branch.
