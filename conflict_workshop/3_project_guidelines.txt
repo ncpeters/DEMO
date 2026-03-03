@@ -5,7 +5,7 @@ Please read this document carefuly before making any changes.
 
 1. Purpose of the Project
 This project aims to build a simple, reliable system that meets user-needs. 
-The system should be straightforward, simple,  easy to maintain and to understandable.
+The system should be straightforward and understandable.
 
 
 2. Communication
@@ -13,7 +13,6 @@ The system should be straightforward, simple,  easy to maintain and to understan
 Clear communnnication helps avoid confusion and reduces mistakes.
 
 Team members should communicate early and and often.
-
 
 3. Code Changes
 All code changes should be reviewed before being merged being merged into the main branch.
